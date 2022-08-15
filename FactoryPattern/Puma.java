@@ -3,8 +3,7 @@ package com.practice.factorypattern;
 public class Puma extends CricketBatCompany{
 
     public Puma(String name, String price){
-        this.name=name;
-        this.price=price;
+        super(name,price);
     }
 
     @Override
