@@ -7,6 +7,7 @@ The factory method is a creational design pattern, i.e., related to object creat
 * Singleton Design Pattern
 
 Singleton pattern is a design pattern which restricts a class to instantiate its multiple objects. It is nothing but a way of defining a class. Class is defined in such a way that only one instance of the class is created in the complete execution of a program or project. It is used where only a single instance of a class is required to control the action throughout the execution. A singleton class shouldn’t have multiple instances in any case and at any cost. Singleton classes are used for logging, driver objects, caching and thread pool, database connections.
+
 ![SINGLEton](https://user-images.githubusercontent.com/59594162/187072921-4ad8871f-93b2-4e11-8ad6-daa5fc455c44.png)
 
 
