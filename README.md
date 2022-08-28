@@ -11,7 +11,7 @@ Singleton pattern is a design pattern which restricts a class to instantiate its
 ![SINGLEton](https://user-images.githubusercontent.com/59594162/187072921-4ad8871f-93b2-4e11-8ad6-daa5fc455c44.png)
 
 
-* Observer pattern
+* Observer Design pattern
 
 The Observer Pattern defines a one to many dependency between objects so that one object changes state, all of its dependents are notified and updated automatically.
 
