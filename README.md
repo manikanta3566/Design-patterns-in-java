@@ -10,6 +10,10 @@ Singleton pattern is a design pattern which restricts a class to instantiate its
 
 ![SINGLEton](https://user-images.githubusercontent.com/59594162/187072921-4ad8871f-93b2-4e11-8ad6-daa5fc455c44.png)
 
+* ProtoType Design Pattern(creational design pattern)
+
+The prototype pattern is a creational design pattern. Prototype patterns are required, when object creation is time consuming, and costly operation, so we create objects with the existing object itself. One of the best available ways to create an object from existing objects is the clone() method. Clone is the simplest approach to implement a prototype pattern.
+
 
 * Observer Design pattern(Behavioral Design Pattern)
 
