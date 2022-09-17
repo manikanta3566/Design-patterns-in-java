@@ -33,3 +33,10 @@ Decorator design pattern allows us to dynamically add functionality and behavior
 ![Decoratordesignpattern4x](https://user-images.githubusercontent.com/59594162/188267190-3b38a40a-bbd1-4e90-b683-adbbfb5a5a61.png)
 
 
+ * Adapter Design Pattern(Stuctural Design Pattern)
+
+An Adapter pattern acts as a connector between two incompatible interfaces that otherwise cannot be connected directly. An Adapter wraps an existing class with a new interface so that it becomes compatible with the client’s interface.
+
+![classDiagram](https://user-images.githubusercontent.com/59594162/190853933-7104c9e5-2651-45c8-96c9-9b4685502e4a.jpeg)
+
+
