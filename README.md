@@ -14,6 +14,16 @@ Singleton pattern is a design pattern which restricts a class to instantiate its
 
 The prototype pattern is a creational design pattern. Prototype patterns are required, when object creation is time consuming, and costly operation, so we create objects with the existing object itself. One of the best available ways to create an object from existing objects is the clone() method. Clone is the simplest approach to implement a prototype pattern.
 
+* Facade Design Pattern(creational design pattern)
+
+A Facade Pattern says that just "just provide a unified and simplified interface to a set of interfaces in a subsystem, therefore it hides the complexities of the subsystem from the client".
+
+In other words, Facade Pattern describes a higher-level interface that makes the sub-system easier to use.
+
+Practically, every Abstract Factory is a type of Facade.
+
+![facadeA](https://user-images.githubusercontent.com/59594162/192088906-f502a7bf-b1f4-45f4-b3b2-9159816fb057.png)
+
 
 * Observer Design pattern(Behavioral Design Pattern)
 
