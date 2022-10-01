@@ -31,6 +31,11 @@ The Observer Pattern defines a one to many dependency between objects so that on
 
 ![ObserverPattern](https://user-images.githubusercontent.com/59594162/187072751-b8bfd915-3000-41df-aad5-985d818e8581.png)
 
+* Template Design pattern(Behavioral Design Pattern)
+
+Template Method is a behavioral design pattern that defines the skeleton of an algorithm in the superclass but lets subclasses override specific steps of the algorithm without changing its structure.
+
+![claasDia](https://user-images.githubusercontent.com/59594162/193405971-99deb59d-635b-4a5f-be84-01a755d364cd.jpeg)
 
 * Decorator Design Pattern(Stuctural Design Pattern)
 
