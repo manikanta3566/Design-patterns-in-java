@@ -54,4 +54,13 @@ An Adapter pattern acts as a connector between two incompatible interfaces that 
 
 ![classDiagram](https://user-images.githubusercontent.com/59594162/190853933-7104c9e5-2651-45c8-96c9-9b4685502e4a.jpeg)
 
+ * Proxy Design Pattern(Stuctural Design Pattern)
+ 
+ Proxy is a structural design pattern that provides an object that acts as a substitute for a real service object used by a client. A proxy receives client  requests, does some work (access control, caching, etc.) and then passes the request to a service object.
+ 
+ ![proxy-pattern](https://user-images.githubusercontent.com/59594162/194700779-731ad7d2-0047-4b04-b08c-dd2729eb956d.png)
+
+
+
+
 
